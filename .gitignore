@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Dependency directories
+/node_modules
+/dist
+
+# System files
+.DS_Store
+.env
+
+# Distribution builds
+/build
+/dist
+
+# Coverage reports
+coverage/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Misc
+*.swp

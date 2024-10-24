@@ -1,0 +1,15 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "In the cinema business, a feature film is usually provided to a regional distributor based on a contract for exhibition in a particular geographical territory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
